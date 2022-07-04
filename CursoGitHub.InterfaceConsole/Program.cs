@@ -6,9 +6,26 @@ namespace CursoGitHub.InterfaceConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            //Console.ReadLine();
-            //Console.Beep();
+
+            string pergunta ;
+            string resposta = "git init";
+
+            Console.WriteLine("Qual o comando para iniciar o git?");
+            pergunta = Console.ReadLine();
+            
+            if (pergunta.Equals(resposta))
+            {
+                Console.WriteLine("Acertou!");
+            }
+            else
+            {
+                Console.WriteLine("Errou!");
+            }
+            
+            Console.WriteLine($"A resposta é {resposta}.");
+          
+           
+            
         }
     }
 }
