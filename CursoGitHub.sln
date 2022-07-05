@@ -5,6 +5,10 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoGitHub.InterfaceConsole", "CursoGitHub.InterfaceConsole\CursoGitHub.InterfaceConsole.csproj", "{A14BE25C-BFA9-4254-94A5-FEA0D36FBACF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoGitHub.AulaUm", "CursoGitHub.AulaUm\CursoGitHub.AulaUm.csproj", "{C17F1EE7-8872-4A5C-AB29-52AEE3E86956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoGitHub.AulaDois", "ConsoleApp1\CursoGitHub.AulaDois.csproj", "{604ED297-8F3B-45AD-8900-E1ABD72C2FF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{A14BE25C-BFA9-4254-94A5-FEA0D36FBACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A14BE25C-BFA9-4254-94A5-FEA0D36FBACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A14BE25C-BFA9-4254-94A5-FEA0D36FBACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C17F1EE7-8872-4A5C-AB29-52AEE3E86956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C17F1EE7-8872-4A5C-AB29-52AEE3E86956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C17F1EE7-8872-4A5C-AB29-52AEE3E86956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C17F1EE7-8872-4A5C-AB29-52AEE3E86956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{604ED297-8F3B-45AD-8900-E1ABD72C2FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604ED297-8F3B-45AD-8900-E1ABD72C2FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604ED297-8F3B-45AD-8900-E1ABD72C2FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604ED297-8F3B-45AD-8900-E1ABD72C2FF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
